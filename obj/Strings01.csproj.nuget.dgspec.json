@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cayof\\Teste\\Jogodedados\\Strings01.csproj": {}
+    "C:\\Users\\cayof\\Dev\\Jogo-de-dados\\Jogo-de-dados\\Strings01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cayof\\Teste\\Jogodedados\\Strings01.csproj": {
+    "C:\\Users\\cayof\\Dev\\Jogo-de-dados\\Jogo-de-dados\\Strings01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cayof\\Teste\\Jogodedados\\Strings01.csproj",
+        "projectUniqueName": "C:\\Users\\cayof\\Dev\\Jogo-de-dados\\Jogo-de-dados\\Strings01.csproj",
         "projectName": "Strings01",
-        "projectPath": "C:\\Users\\cayof\\Teste\\Jogodedados\\Strings01.csproj",
+        "projectPath": "C:\\Users\\cayof\\Dev\\Jogo-de-dados\\Jogo-de-dados\\Strings01.csproj",
         "packagesPath": "C:\\Users\\cayof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cayof\\Teste\\Jogodedados\\obj\\",
+        "outputPath": "C:\\Users\\cayof\\Dev\\Jogo-de-dados\\Jogo-de-dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
